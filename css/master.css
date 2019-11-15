@@ -1,0 +1,29 @@
+body{
+  background: #C2CFFF;
+
+}
+
+div{
+  text-align: center;
+  margin-left:60px ;
+  margin-right: 60px;
+  text-align: justify;
+
+}
+
+#fable01{
+color: red;
+
+}
+img{
+  max-width: 680px;
+
+}
+
+#fable02{
+color : green;
+}
+
+#fable03{
+  color: purple;
+}

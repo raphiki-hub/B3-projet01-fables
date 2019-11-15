@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Modak&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alata|Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster|Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Calistoga&display=swap');
+
+
+h5{
+  font-family: 'Calistoga', cursive;
+  font-size: 80px;
+}
+
+h1{
+  font-family: 'Modak', cursive;
+  font-size: 50px;
+
+
+}
+
+p1{
+  font-family: 'Fascinate Inline', cursive;
+  margin-bottom: 30px;
+}
+
+h2{
+  font-family: 'Alata', sans-serif;
+  font-size:  60px;
+  border-style :dashed;
+}
+
+p2{
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+h3{
+  font-family: 'Yeon Sung', cursive;
+  font-size: 50px;
+}
+
+p3{
+font-family:  'Lobster', cursive;
+}
